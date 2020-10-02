@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=kevinc0229.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kevinc0229.github.io/)
 
-## I'm a Student, Developer, and Gamer
+## I'm a Student, Developer, and Cuber
 
 - 💻 I’m currently working towards a B.S. degree in Computer Engineering @ UCSD
 - 🛠 I’m currently learning web development tools and technologies such as JavaScript, React, and Python
