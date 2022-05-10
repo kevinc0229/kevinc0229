@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer, and Cuber
 
-- 💻 I’m currently working towards a B.S. degree in Computer Engineering @ UCSD
+- 💻 I’m currently working towards a M.S. degree in Computer Engineering @ UCSD
 - 🛠 I’m currently learning web development tools and technologies such as JavaScript, React, and Python
 - 🔎 I’m looking for opportunies to expand my skill base and work on cool projects
 
